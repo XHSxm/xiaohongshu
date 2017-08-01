@@ -12,12 +12,11 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.WindowManager;
-import android.widget.Button;
 import android.widget.PopupWindow;
 import android.widget.TextView;
 
 import com.apple.xhs.R;
-import com.apple.xhs.adapter_util.AppBarStateChangeListener;
+import com.apple.adapter_util.AppBarStateChangeListener;
 import com.base.BaseActivity;
 import com.bean.MyUser;
 import com.bean.Note;

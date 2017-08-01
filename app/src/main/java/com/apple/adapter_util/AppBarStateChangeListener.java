@@ -1,4 +1,4 @@
-package com.apple.xhs.adapter_util;
+package com.apple.adapter_util;
 
 import android.support.design.widget.AppBarLayout;
 
